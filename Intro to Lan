@@ -1,0 +1,5 @@
+In LAN topologies, there are several common designs. In a star topology, every device connects to a central switch. This makes it easy to add devices and gives good reliability and scalability, but the central switch is a single point of failure. In a bus topology, all devices share a single backbone cable; this can cause collisions and congestion when many devices send data at the same time, so it is not practical for large networks. In a ring topology, devices are connected in a loop and data travels from one device to the next; some ring networks use a token mechanism to avoid collisions."
+
+If you want a short version for your notes: "Star: central switch, easy to scale.
+Bus: single cable, collision risk.
+Ring: devices in loop, can use token to prevent collisions.
