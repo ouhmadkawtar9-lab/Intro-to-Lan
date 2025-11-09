@@ -1,0 +1,5 @@
+Subnetting means dividing a large network into smaller ones to improve organization and security.
+For example, in a company, there are many departments such as accounting, finance, and marketing.
+Each department needs its own separate network to avoid confusion and to ensure that the data of each department remains private and organized.
+
+It also helps reduce network traffic and improves performance, because data flows only within each small network instead of the whole company network.
